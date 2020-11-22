@@ -1,4 +1,4 @@
-package com.sepehrpay.infrastructure.utility;
+package com.x.infrastructure.utility;
 
 import lombok.Getter;
 import lombok.Setter;
